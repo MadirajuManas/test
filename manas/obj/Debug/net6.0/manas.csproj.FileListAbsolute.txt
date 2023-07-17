@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\manas\manas\obj\Debug\net6.0\manas.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\manas\manas\obj\Debug\net6.0\manas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\manas\manas\obj\Debug\net6.0\manas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\manas\manas\obj\Debug\net6.0\manas.AssemblyInfo.cs
+C:\Users\USER\source\repos\manas\manas\obj\Debug\net6.0\manas.csproj.CoreCompileInputs.cache
